@@ -1,6 +1,4 @@
-# Portfolio
-## Pagina de portfólio de projetos pessoais.
+<h1>Portfolio</h1>
+<h2>Pagina de portfólio de projetos pessoais.</h2>
 
-![Em Breve](https://github.com/GusNunesDev/Portfolio/blob/master/imagens/construction.jpg)
-
-<img src="https://github.com/GusNunesDev/Portfolio/blob/master/imagens/construction.jpg" width="350" title="hover text">
+<img src="https://github.com/GusNunesDev/Portfolio/blob/master/imagens/construction.jpg" width="350" title="Em Breve!">
