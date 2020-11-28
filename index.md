@@ -91,9 +91,9 @@
 								<div class="container">
 									<h3>Meus Contatos</h3>
 									<ul style="font-weight: bold">
-										<li><a href="mailto:gustavo_anunes@hotmail.com">E-mail: gustavo_anunes@hotmail.com</a></li>
-										<li><a href="www.linkedin.com/in/GustavoANunes">LinkedIn: www.linkedin.com/in/GustavoANunes </a></li>
-										<li><a href="GitHub: https://github.com/GusNunesDev">GitHub: https://github.com/GusNunesDev</a></li>
+							<li><a href="mailto:gustavo_anunes@hotmail.com">E-mail: gustavo_anunes@hotmail.com</a></li>
+							<li><a href="www.linkedin.com/in/GustavoANunes">LinkedIn: www.linkedin.com/in/GustavoANunes </a></li>
+							<li><a href="GitHub: https://github.com/GusNunesDev">GitHub: https://github.com/GusNunesDev</a></li>
 									</ul>
 								</div>
 							</section>
