@@ -42,7 +42,7 @@
 									</header>
 
 									<p>Me chamo Gustavo, tenho 24 anos de idade, moro na zona norte de São Paulo proximo a região do jaçanã. <br/>
-									Atualmente estou cursando o 3º semestre de Análise e Desenvolvimento de Software, na Universidade Nove de Julho. Estou a procura de uma oportunidade de estágio na área de desenvolvimento Web e Mobile, não possuo experiencia pratica nesta área, mais estou sempre estudando as tecnologia mais usadas atualmente no mercado.</p>
+									Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Software, na Universidade Nove de Julho. Estou a procura de uma oportunidade de estágio na área de desenvolvimento Web e Mobile, não possuo experiencia pratica nesta área, mais estou sempre estudando as tecnologia mais usadas atualmente no mercado.</p>
 
 								</div>
 							</section>
@@ -90,9 +90,8 @@
 											<a href="#" class="image"><img src="images/wireframeapp.png" alt="Wireframe IA Tech Tools" /></a>
 											<div class="inner">
 												<h4>Site de portfólio</h4>
-												<p>Site de portfólio.<br/>
-												 Site de portfólio para divulgar o tranalho de uma cliente que cria figuras artesanais sob encomenda.<br/>
-												<em><a href="https://github.com/GusNunesDev/IATechTools">Para maiores detalhes clique aqui</a></em></p>
+												<p>Site de portfólio para divulgar o trabalho de uma cliente que cria figuras artesanais sob encomenda.<br/>
+												<em><a href="https://gusnunesdev.github.io/MilaArts/">Para maiores detalhes clique aqui</a></em></p>
 											</div>
 										</article>
 
