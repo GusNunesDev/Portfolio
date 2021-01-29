@@ -87,7 +87,7 @@
 										</article>
 										
 										<article>
-											<a href="#" class="image"><img src="images/wireframeapp.png" alt="Wireframe IA Tech Tools" /></a>
+											<a href="#" class="image"><img src="images/milaartspage.png" alt="Mila Art's Home Page" /></a>
 											<div class="inner">
 												<h4>Site de portfólio</h4>
 												<p>Site de portfólio para divulgar o trabalho de uma cliente que cria figuras artesanais sob encomenda.<br/>
