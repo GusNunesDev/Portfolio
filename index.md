@@ -80,11 +80,21 @@
 											<a href="#" class="image"><img src="images/wireframeapp.png" alt="Wireframe IA Tech Tools" /></a>
 											<div class="inner">
 												<h4>Aplicativo IATech Tools</h4>
-												<p>Um aplicativo para Android, com algumas funcionalidades em estágio final de desenvolvimento.<br/>
+												<p>Um aplicativo simples para Android, com algumas funcionalidades.<br/>
 												O Aplicativo possui as seguintes funções: Calculadora, lista de afazeres com Banco de Dados e um bloco de notas. <br/>
 												<em><a href="https://github.com/GusNunesDev/IATechTools">Para maiores detalhes clique aqui</a></em></p>
 											</div>
-										</article>						
+										</article>
+										
+										<article>
+											<a href="#" class="image"><img src="images/wireframeapp.png" alt="Wireframe IA Tech Tools" /></a>
+											<div class="inner">
+												<h4>Site de portfólio</h4>
+												<p>Site de portfólio.<br/>
+												 Site de portfólio para divulgar o tranalho de uma cliente que cria figuras artesanais sob encomenda.<br/>
+												<em><a href="https://github.com/GusNunesDev/IATechTools">Para maiores detalhes clique aqui</a></em></p>
+											</div>
+										</article>
 
 						<!-- Quarto -->
 							<section id="quarto">
